@@ -1,0 +1,15 @@
+{
+  "name": "jeevo-main",
+  "version": "1.0.0",
+  "description": "Jeevo is a web platform that connects daily wage workers with employers across India. Users can post or find jobs in fields like construction, electrical, plumbing, and painting, with location, wage, and contact details. Built to simplify job access and hiring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.20.0"
+  }
+}
